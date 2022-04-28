@@ -4,11 +4,6 @@ local sampev = require 'lib.samp.events'
 encoding.default = 'CP1251'
 u8 = encoding.UTF8
 
-{
-    "updateurl": "https://raw.githubusercontent.com/sidney31/tghelper/main/tghelper.lua",
-    "latest": "28.04.2022"
-}
-
 local chat_id = '976221897'
 local token = '5216765399:AAEM4XCWaNWtj70kkhgri0aKIkS1_h0KMD0'
 
